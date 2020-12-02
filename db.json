@@ -1,0 +1,114 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openads":"ca-app-pub-3940256099942544/1033173712",
+        "interval": 3,
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"123456",
+        "fan_banner_native":"123456",
+        
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+     
+
+        }
+    ],
+
+"More":
+  [
+    {
+      "id":1,
+      "judul":"Cat Photography Coloring Book - Color By Number",
+      "image":"https://play-lh.googleusercontent.com/2vH2JgOzhtKSruIV0T2DEefMY09f7tWrjZtxQVCAa5lJSkzOBkuTAg5EC_DnUdyaptg=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.sstf.catphotographycoloringbook.colorbynumber"
+    },
+    {
+      "id":2,
+      "judul":"Landscape Coloring Book - Color By Number",
+      "image":"https://play-lh.googleusercontent.com/Um8HVCQqBR41oF2wxi3BFzdBWVKo6YoxH4WRtgzdkmFnjhy5vdNu4EWn0s67US6ciQ=s180",
+	  "link":"https://play.google.com/store/apps/details?id=com.sstf.landscapecoloringbook.colorbynumber"
+    },
+    {
+      "id":3,
+      "judul":"Flags Coloring By Number - Pixel",
+      "image":"https://play-lh.googleusercontent.com/hOKby1OHZ9me8kxbXJ-yJpms5xVapr-X2p1ysRvlCcBst-ryNfDZtq3RQ7cg6R0Ro_gt=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.successstf.flag.colorbynumber.pixel"
+    },
+	{
+      "id":4,
+      "judul":"Football Player Coloring By Number - Pixel",
+      "image":"https://play-lh.googleusercontent.com/Lli6nemYTzUtJw2JZYCgnfomCPmlcbZfkhA373TSIDhuRFYiNt_yrk8OgVDkt8K2Gx8=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.successstf.footballplayerpixel.colorbynumber"
+    },
+    {
+      "id":5,
+      "judul":"Rose Flowers Coloring By Number - Pixel Art",
+      "image":"https://play-lh.googleusercontent.com/wlcI3EgHAevbNVDUl-9J1HO0FtipXZ9uNuHs6Gxk-Jn0iXQpUHW7sbAK4iCUjnq4Jbs=s180",
+	  "link":"https://play.google.com/store/apps/details?id=com.sstf.roseflowers.colorbynumber"
+    },
+    {
+      "id":6,
+      "judul":"Easter Egg Coloring Game - Color By Number",
+      "image":"https://play-lh.googleusercontent.com/DAiOKQnVGxdX2PnwPPUGofggzinEngYCZsDFdN9OXeS-G6HNb08hF5kJrwq76JNLdn0=s180",
+      "link":"https://play.google.com/store/apps/details?id=com.successstf.eastereggcoloring"
+    }
+
+  ],
+
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "bbb",
+      "judul":"title 001",
+      "image":"1.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "bbb",
+      "judul":"title 002",
+      "image":"2.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Dragon Ball Off",
+      "judul":"Vegeta Off",
+      "image":"file:///android_asset/gambar/vegeta.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Dragon Ball Off",
+      "judul":"Kamen Shenin Off",
+      "image":"https://i.pinimg.com/564x/fc/98/77/fc9877fedfdb69e449e7fd9aae1230e6.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "One Piece Off",
+      "judul":"Shank Off",
+      "image":"https://static.zerochan.net/Shanks.full.1917475.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Naruto Off",
+      "judul":"Uchiha Itachi Off",
+      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
+    }
+
+  ]
+}
